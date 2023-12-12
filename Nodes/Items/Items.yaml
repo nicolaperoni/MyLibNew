@@ -1,0 +1,9 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: MyObject
+  Type: ObjectLibraryItem
+  Children:
+  - Name: MyObject
+    Id: g=65c8ae97268e96776226cdffb082b33e
+    Supertype: BaseObjectType
